@@ -1,0 +1,10 @@
+openai
+langchain
+langgraph
+langchain-openai
+langchain-community
+langchain-core
+fastapi
+uvicorn
+streamlit
+dotenv

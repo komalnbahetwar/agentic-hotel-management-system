@@ -1,0 +1,8 @@
+In one terminal, start the Backend using FastAPI & Uvicorn:
+
+>>> uvicorn app.main:app
+
+
+In second terminal, start the Frontend UI using Streamlit:
+
+>>> streamlit run streamlit_app.py
